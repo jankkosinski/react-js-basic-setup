@@ -1,2 +1,3 @@
 # react-js-webpack-template
-Basic React JS template with Webpack and Babel.
+
+Basic and simple React JS template with Webpack and Babel.
